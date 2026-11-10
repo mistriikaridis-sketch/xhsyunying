@@ -1,1 +1,3 @@
-# xhsyunying
+# 红书资料运营
+
+技能文件在 `skills/`。
